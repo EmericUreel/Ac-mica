@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="UTF-8"
+        <title>Mi sitio de Películas</title>
+    </head>
+
+    <body>
+        <h1>Mi sitio de Pelúlas</h1>
+        <h2>TOP 5</h2>
+            <IMG src="WhatsApp Image 2019-06-16 at 5.12.59 PM" alt="imagen" width="250px" height="350px" />
+            <ol>
+                <li>Bella y Bestia</li>
+                <li>Aladin</li>
+                <li>Rey Leon</li>
+                <li>Bambi</li>
+                <li>Tarzán</li>
+            </ol>
+        <h2>Pelúlas que quiero ver</h2>
+            <IMG src="WhatsApp Image 2019-06-16 at 5.12.59 PM" alt="imagen" width="250px" height="350px" />
+            <UL>
+                <li>DIEGO</li>
+                <li>JUAN</li>
+                <li>PEDRO</li>
+                <li>LUCAS</li>
+                <li>SIMON</li>
+             </UL>
+    </body>
+
+</html>

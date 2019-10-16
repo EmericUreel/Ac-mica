@@ -1,0 +1,19 @@
+h1 {
+    color: #3CB371;
+}
+
+h2 {
+    color: palegreen;
+}
+
+h3 {
+    color: #2E8B57;
+}
+
+* {
+    font-family: verdana;
+}
+
+body {
+    background-color: honeydew;
+}
